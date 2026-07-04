@@ -72,7 +72,3 @@ Learning is fun.
 <p>Learning is fun.</p>
 <p><b>Thank You</b></p>
 ```
-
-## Author
-
-Created by Sahil Rawal
