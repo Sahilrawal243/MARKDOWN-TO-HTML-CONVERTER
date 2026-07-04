@@ -6,6 +6,11 @@ This is a beginner-friendly Python project that converts a simple Markdown file 
 
 The program reads a Markdown file (`sample.md`), converts headings, paragraphs, and bold text into HTML, and saves the result as `output.html`.
 
+## Internship Details
+- Name : Sahil Rawal
+- Intern ID : CITS4175
+- Organistation : CODTECH
+
 ## Features
 
 - Convert Heading 1 (#)
